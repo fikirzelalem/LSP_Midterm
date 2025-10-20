@@ -22,5 +22,5 @@ StudentPortalHelper class mixes unrelated functions (UI, finance, security, etc.
 resulting in low cohesion.”
 
 Summary:
-- No code or external web content was borrowed.
-- All conceptual definitions were derived from the official Lecture slides.
+- No code or external web content was borrowed to do this question.
+- All definitions were derived from the official Lecture slides.
