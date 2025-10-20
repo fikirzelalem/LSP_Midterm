@@ -8,19 +8,19 @@ Sources I used:
    These slides were reviewed to reference definitions of cohesion, coupling, 
    and Arthur Riel’s Object-Oriented Heuristics.
 
-2. AI Tool: ChatGPT
+2. AI: ChatGPT
    Purpose: Helped organize and structure my written response clearly.
 
 Example prompt used:
 "Using Arthur Riel’s heuristics from the course slides, explain whether 
 the StudentPortalHelper class has high or low cohesion and how to refactor it."
 
-Excerpt from AI response:
+Excerpt from response:
 “A well-designed class should have high cohesion. According to Arthur Riel’s 
 heuristics, a class should capture one and only one key abstraction. The 
 StudentPortalHelper class mixes unrelated functions (UI, finance, security, etc.), 
 resulting in low cohesion.”
 
 Summary:
-- No code or external web content was borrowed to do this question.
-- All definitions were derived from the official Lecture slides.
+- No code or external web content was used to do this question.
+- All definitions were taken from the class Lecture slides.
