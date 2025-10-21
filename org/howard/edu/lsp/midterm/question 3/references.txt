@@ -11,11 +11,7 @@ Checked that responsibilities and collaborations should be separated to avoid ti
 3. Source: Oracle Java Documentation
    URL: https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html
 
-4. AI Assistance (ChatGPT)
-   Prompt used:
-   “Explain how to redesign a Car class to support dynamic trim-level changes using composition rather than inheritance.”
-   Short excerpt:
-   “You can create a TrimLevel class and give Car a reference to it, allowing you to swap the TrimLevel instance at runtime instead of subclassing for Base, Luxury, and Sport.”
-   
+4. AI Used- ChatGPT
+
 Summary:
 Used AI to confirm understanding of composition vs. inheritance and to ensure use of correct terminology.

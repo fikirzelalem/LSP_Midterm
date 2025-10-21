@@ -1,0 +1,6 @@
+Prompt asked : “I created overloaded methods for calculating the area of a circle, rectangle, 
+triangle, and square. Can you check if my syntax and exception handling are correct?”
+
+Excerpt from response:
+“Everything looks correct — each overloaded method throws an 
+IllegalArgumentException for invalid input and uses Math.PI for circle area.”
