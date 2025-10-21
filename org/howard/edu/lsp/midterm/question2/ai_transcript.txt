@@ -4,3 +4,12 @@ triangle, and square. Can you check if my syntax and exception handling are corr
 Excerpt from response:
 “Everything looks correct — each overloaded method throws an 
 IllegalArgumentException for invalid input and uses Math.PI for circle area.”
+
+Prompt 2:
+“I want to verify that my overloaded AreaCalculator methods use the correct 
+formulas and exception handling.”
+
+Excerpt response:
+“Each overloaded method can share the same name area but with different parameter 
+signatures. Validate dimensions (≤ 0) by throwing IllegalArgumentException. Use Math.PI 
+for the circle’s area.”

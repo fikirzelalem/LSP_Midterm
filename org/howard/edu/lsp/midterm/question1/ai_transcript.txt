@@ -1,4 +1,4 @@
-Prompt I asked:
+Prompt 1 I asked:
 "Using Arthur Riel’s heuristics from the course slides, explain whether 
 the StudentPortalHelper class has high or low cohesion and how to refactor it."
 
@@ -7,3 +7,14 @@ Excerpt from response:
 heuristics, a class should capture one and only one key abstraction. The 
 StudentPortalHelper class mixes unrelated functions (UI, finance, security, etc.), 
 resulting in low cohesion.”
+
+Prompt 2:
+“Can you help me review whether the StudentPortalHelper class demonstrates high or 
+low cohesion according to Arthur Riel’s heuristics, and how to improve it if needed?”
+
+Excerpt response:
+
+“A well-designed class should maintain high cohesion—all methods should contribute to 
+one focused purpose. The StudentPortalHelper mixes unrelated behaviors (data storage, 
+GPA, email, payment, caching), suggesting it should be separated into smaller helper 
+classes like GpaCalculator, EmailFormatter, and PaymentProcessor.”

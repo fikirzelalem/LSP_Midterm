@@ -1,6 +1,15 @@
 Prompt used:
-   “Explain how to redesign a Car class to support dynamic trim-level changes using composition rather than inheritance.”
+   “Explain how to redesign a Car class to support dynamic trim-level changes using 
+   composition rather than inheritance.”
    
    Short excerpt:
-   “You can create a TrimLevel class and give Car a reference to it, allowing you to swap the TrimLevel instance at runtime instead of subclassing for Base, Luxury, and Sport.”
+   “You can create a TrimLevel class and give Car a reference to it, allowing you to swap 
+   the TrimLevel instance at runtime instead of subclassing for Base, Luxury, and Sport.”
+
+   Prompt 2:
+   “Can you confirm whether composition would allow changing trim levels dynamically?”
+
+    Excerpt response:
+    “Yes. Instead of subclassing BaseCar, LuxuryCar, etc., make Car contain a TrimLevel 
+    object. This composition allows the trim to change at runtime without altering inheritance.”
    

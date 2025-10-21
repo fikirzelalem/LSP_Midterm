@@ -1,0 +1,16 @@
+Prompt 1 used: 
+   “Explain how to implement DoorLock, Thermostat, and Camera classes in Java using inheritance 
+   and interfaces based on a given Device abstract class.”
+   
+   Short excerpt: 
+   “Each concrete class should extend Device and implement Networked (and BatteryPowered where 
+   required). Ensure all fields are private and that constructors call super(id, location).”
+
+Prompt 2:
+“I’m implementing Device, Networked, and BatteryPowered classes. Can you confirm the structure
+aligns with Java inheritance and interface principles?”
+
+Excerpt response:
+“Ensure all concrete classes extend Device, implement required interfaces, call super(id, 
+location) in constructors, and properly validate battery percentage. This confirms correct 
+use of inheritance and interface polymorphism.”
