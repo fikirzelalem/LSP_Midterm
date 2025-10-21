@@ -1,7 +1,7 @@
 AI / Internet / Course Sources Documentation
 
-Sources I used:
-1. Lecture slides from LSP:
+Sources I used to answer Question 1:
+1. Lecture slides from class:
    - oo-terminology.ppt
    - ooHeuristics.pptx
    - CRCCards.ppt
@@ -11,7 +11,7 @@ Sources I used:
 2. AI: ChatGPT
    Purpose: Helped organize and structure my written response clearly.
 
-Example prompt used:
+Prompt I asked:
 "Using Arthur Riel’s heuristics from the course slides, explain whether 
 the StudentPortalHelper class has high or low cohesion and how to refactor it."
 
@@ -22,5 +22,4 @@ StudentPortalHelper class mixes unrelated functions (UI, finance, security, etc.
 resulting in low cohesion.”
 
 Summary:
-- No code or external web content was used to do this question.
 - All definitions were taken from the class Lecture slides.
