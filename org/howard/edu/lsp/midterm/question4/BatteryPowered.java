@@ -6,6 +6,8 @@
 
 package org.howard.edu.lsp.midterm.question4;
 
-public class BatteryPowered {
-    
+public interface BatteryPowered {
+  int getBatteryPercent();
+  void setBatteryPercent(int percent);
 }
+
