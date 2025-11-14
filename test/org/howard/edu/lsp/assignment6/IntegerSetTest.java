@@ -118,4 +118,17 @@ public class IntegerSetTest {
         a.complement(b);
         assertEquals("[3]", a.toString());
     }
+    
+    @Test
+    public void testLargestThrowsException() {
+        IntegerSet set = new IntegerSet();
+        assertThrows(IllegalStateException.class, set::largest);
+    }
+
+    @Test
+    public void testSmallestThrowsException() {
+        IntegerSet set = new IntegerSet();
+        assertThrows(IllegalStateException.class, set::smallest);
+    }
+
 }
