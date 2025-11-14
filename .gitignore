@@ -1,1 +1,8 @@
 /bin/
+#Ignore .class files
+*.class
+
+# Ignore Eclipse and OS files
+.project
+.classpath
+.settings/
