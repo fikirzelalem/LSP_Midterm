@@ -2,7 +2,7 @@
  * @author Fikir Demeke
  * @date November 11 2025
  *
- * JUnit 5 test suite for the IntegerSet class.
+ * This is a JUnit 5 test class for the IntegerSet class.
  * Each test method verifies one or more public methods from the IntegerSet
  * implementation to ensure correct behavior for normal and edge cases.
  */

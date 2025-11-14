@@ -3,8 +3,8 @@
  * @date November 11 2025
  * This class provides standard set operations such as union, intersection,
  * difference, and complement using an internal ArrayList. Duplicate values are
- * not allowed. All mutator methods modify the current instance (this) rather
- * than returning a new object.
+ * not allowed. All mutator methods modify the current instance rather
+ * than returning a new object. 
  */
 
 package org.howard.edu.lsp.assignment6;
