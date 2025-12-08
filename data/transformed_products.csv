@@ -1,0 +1,6 @@
+ProductID,Name,Price,Category,PriceRange
+1,BOOK,12.99,Education,Medium
+2,LAPTOP,899.99,Premium Electronics,Premium
+3,PEN,0.99,Stationery,Low
+4,SHOES,205.99,Footwear,High
+5,PHONE,493.19,Electronics,High
