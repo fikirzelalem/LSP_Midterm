@@ -14,4 +14,5 @@ Checked that responsibilities and collaborations should be separated to avoid ti
 4. AI Used- ChatGPT
 
 Summary:
-Used AI to confirm understanding of composition vs. inheritance and to ensure use of correct terminology.
+Used AI to confirm understanding of composition vs. inheritance and to ensure use of 
+correct terminology.

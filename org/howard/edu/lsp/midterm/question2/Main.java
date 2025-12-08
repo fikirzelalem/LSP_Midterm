@@ -30,6 +30,7 @@ public class Main {
     }
 
     /*
+     * Some Notes
      * Method overloading keeps all area calculations under one clear concept "area".
      * Using separate names like circleArea() or rectangleArea() would fragment the design
      * and reduce cohesion. 

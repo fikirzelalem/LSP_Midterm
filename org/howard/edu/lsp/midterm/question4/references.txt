@@ -9,10 +9,6 @@ I reviewed the concepts of inheritance, abstract classes, and interfaces.
 Skimmed through abstract classes define shared state and partial behavior, while interfaces define capabilities that can be mixed into multiple classes.
 
 4. AI- ChatGPT
-   Prompt used: 
-   “Explain how to implement DoorLock, Thermostat, and Camera classes in Java using inheritance and interfaces based on a given Device abstract class.”
-   Short excerpt: 
-   “Each concrete class should extend Device and implement Networked (and BatteryPowered where required). Ensure all fields are private and that constructors call super(id, location).”
 
 Summary: 
    Used AI to clarify structure and validate correct syntax.
